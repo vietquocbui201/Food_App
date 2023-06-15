@@ -1,6 +1,7 @@
-# Repository Name
+# welcome
 
-Welcome to the repository! This repository contains the code and resources for my project.
+Chào mừng bạn đến với dự án của tôi!!!
+Đây là một dự án nhỏ về app bán đồ ăn. Xử lý cơ bản một số luồng trong app.
 
 ## Demo Video
 
@@ -8,19 +9,14 @@ Welcome to the repository! This repository contains the code and resources for m
 
 Click on the image above to watch the demo video on YouTube.
 
-## Installation
-
-Follow these steps to install and run the project on your local machine:
-
-1. Clone the repository: `git clone https://github.com/your-username/repository.git`
-2. Navigate to the project directory: `cd repository`
-3. Install the dependencies: `npm install`
-4. Run the project: `npm start`
-
 ## Features
 
-- Feature 1: Describe the feature briefly
-- Feature 2: Describe the feature briefly
+- Feature 1: Đăng ký đăng nhập
+- Feature 2: Tìm kiếm nhà hàng
+- Feature 3: Phân nhóm nhà hàng
+- Feature 5: Xem cho tiết nhà hàng và món ăn
+- Feature 6: Thêm vào giỏ hàng
+- Feature 7: Chỉnh sửa thông tin cá nhân
 
 ## License
 
